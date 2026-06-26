@@ -19,5 +19,4 @@ patterns across 1,470 employees to identify key retention risks.
 - Attrition breakdown by Department, Job Role, Age, Salary, Education
 - Interactive filters by Department
 
-## 🔗 Live Dashboard
-[View on Tableau Public](your-link-here)
+
